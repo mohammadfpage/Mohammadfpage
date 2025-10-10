@@ -56,6 +56,11 @@
 
 ### 🌐 Connect With Me
 <p align="center">
+  
+  <a href="https://t.me/mohammadfpage" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" />
   </a>

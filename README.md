@@ -10,10 +10,7 @@
 ---
 
 ### 📈 Contribution & Activity Overview
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadfpage&custom_title=Mohammad%20Fallahi's%20Total%20Activity%20Graph&bg_color=0f2027&color=00b4d8&line=48cae4&point=90e0ef&area=true&hide_border=true" />
-</p>
+
 
 <p align="center">
   <!-- Overall Stats including Repo creation, PRs, Issues -->
@@ -28,7 +25,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadfpage&theme=tokyonight" height="180" />
 </p>
 
-
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadfpage&custom_title=Mohammad%20Fallahi's%20Total%20Activity%20Graph&bg_color=0f2027&color=00b4d8&line=48cae4&point=90e0ef&area=true&hide_border=true" />
+</p>
 ---
 
 ### ⚙️ Tech Stack

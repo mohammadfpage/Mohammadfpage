@@ -9,10 +9,25 @@
 - 💻 Specialized in Back-End development using **C#, ASP.NET Core , and SQL Server** 
 ---
 
-### 📈 Contribution Graph
+### 📈 Contribution & Activity Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadfpage&bg_color=0f2027&color=00b4d8&line=48cae4&point=90e0ef&area=true&hide_border=true" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadfpage&custom_title=Mohammad%20Fallahi's%20Total%20Activity%20Graph&bg_color=0f2027&color=00b4d8&line=48cae4&point=90e0ef&area=true&hide_border=true" />
 </p>
+
+<p align="center">
+  <!-- Overall Stats including Repo creation, PRs, Issues -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadfpage&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Commit, Repo, Issue, PR and Star summaries -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadfpage&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadfpage&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadfpage&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadfpage&theme=tokyonight" height="180" />
+</p>
+
 
 ---
 

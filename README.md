@@ -50,12 +50,12 @@
 <p align="center">
 
   <!-- ریپو ۱ -->
-  <a href="https://github.com/mohammadfpage/windowsFrom">
+  <a href="https://github.com/mohammadfpage/WindowsForm">
     <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourMainProject1&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
   </a>
 
   <!-- ریپو ۲ -->
-  <a href="https://github.com/mohammadfpage/YourMainProject2">
+  <a href="https://github.com/mohammadfpage/RegisterLogin">
     <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourMainProject2&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
   </a>
 

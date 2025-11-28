@@ -36,59 +36,6 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadfpage&show_icons=true&theme=midnight-purple&bg_color=0D1117&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfpage&theme=midnight-purple&hide_border=true" height="165" />
-</p>
-
----
-
-### ⭐ Featured Repositories
-
-<p align="center">
-
-  <!-- ریپو ۱ -->
-  <a href="https://github.com/mohammadfpage/WindowsForm">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourMainProject1&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-  <!-- ریپو ۲ -->
-  <a href="https://github.com/mohammadfpage/RegisterLogin">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourMainProject2&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <!-- ریپو ۳ -->
-  <a href="https://github.com/mohammadfpage/YourMainProject3">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourMainProject3&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-  <!-- ریپو ۴ -->
-  <a href="https://github.com/mohammadfpage/YourMainProject4">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourMainProject4&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadfpage/mohammadfpage/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadfpage/mohammadfpage/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammadfpage/mohammadfpage/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
 ### 🏆 Achievements
 
 <p align="center">

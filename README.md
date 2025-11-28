@@ -16,7 +16,7 @@
 - 💻 Specialized in **Back-End development** using **C#, ASP.NET Core, and SQL Server**
 - 🧩 Focused on writing **clean, maintainable, and scalable** server-side code
 - 🚀 Interested in **performance optimization**, **RESTful APIs**, and **enterprise applications**
-- 🎯 Currently improving my skills in **clean architecture, DDD, and best practices in ASP.NET Core**
+- 🎯 Currently improving my skills in **clean architecture, and best practices in ASP.NET Core**
 
 ---
 
@@ -29,7 +29,7 @@
 
 #### 🗄️ Databases
 
-- **Relational DB:** SQL Server  
+- **Relational DB:** SQL Server  , My sql
 - **Areas of Focus:** Query optimization, indexing, stored procedures
 
 #### 🛠️ Tools & Workflow

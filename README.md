@@ -58,35 +58,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-
-  <!-- این ریپوها رو با پروژه‌های مهم خودت عوض کن -->
-  <a href="https://github.com/mohammadfpage/YourAspNetCoreProject1">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourAspNetCoreProject1&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-  <a href="https://github.com/mohammadfpage/YourAspNetCoreProject2">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourAspNetCoreProject2&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/mohammadfpage/YourAspNetCoreProject3">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourAspNetCoreProject3&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-  <a href="https://github.com/mohammadfpage/YourAspNetCoreProject4">
-    <img width="330" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohammadfpage&repo=YourAspNetCoreProject4&theme=react&bg_color=0D0817&title_color=BF91F3&text_color=9CA3AF&icon_color=BF91F3&hide_border=false&border_color=7C3AED" />
-  </a>
-
-</p>
-
----
-
 ### 🏆 Achievements
 
 <p align="center">
